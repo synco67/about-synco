@@ -1,0 +1,2 @@
+# about-synco
+About Synco
